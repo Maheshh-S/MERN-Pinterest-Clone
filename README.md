@@ -70,6 +70,6 @@ This project is open-source and available for modifications.
 
 ### **📬 Connect with Me**
 🔗 [LinkedIn](https://www.linkedin.com/in/maheshh-s/)  
-🐦 [Twitter](x.com/whymahesh)  
+🐦 [Twitter](https://www.x.com/whymahesh)  
 📧 Email: dev4mahesh@gmail.com
 
